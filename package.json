@@ -32,6 +32,7 @@
     "ndjson": "^1.4.3",
     "promisify-es6": "^1.0.1",
     "qs": "^6.1.0",
+    "streamifier": "^0.1.1",
     "wreck": "^7.0.2"
   },
   "engines": {
